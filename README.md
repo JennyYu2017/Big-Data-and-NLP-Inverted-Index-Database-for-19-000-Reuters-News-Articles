@@ -1,0 +1,1 @@
+# Big-Data-and-NLP-Inverted-Index-Database-for-19-000-Reuters-News-Articles
